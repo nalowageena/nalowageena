@@ -1,4 +1,5 @@
-### Hi there 👋
+![github-banner](https://user-images.githubusercontent.com/77391048/177047314-f4557ec6-612c-4a83-a7ca-37de1f1f7a46.png)
+
 
 <!--
 **nalowageena/nalowageena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
