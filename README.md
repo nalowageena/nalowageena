@@ -28,8 +28,11 @@
 
 ---
 
-<h1 align="center">Statistics</h1>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nalowageena&hide_border=true)](https://git.io/streak-stats)
+<h1 align="center">Statistics</h1>&nbsp;
+
+
+| [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nalowageena&hide_border=true)](https://git.io/streak-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nalowageena)](https://github.com/anuraghazra/github-readme-stats) |
+| :-: | :-: |
 
 
 ---
