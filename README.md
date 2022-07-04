@@ -1,6 +1,6 @@
 ![github-banner](https://user-images.githubusercontent.com/77391048/177047314-f4557ec6-612c-4a83-a7ca-37de1f1f7a46.png)
 
-<div id="badges">
+<div id="badges" align = "center">
   <a href="https://www.linkedin.com/in/nalowa-geena-20a85b200/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -27,6 +27,13 @@
 </div>
 
 ---
+
+<h1 align="center">Statistics</h1>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nalowageena&hide_border=true)](https://git.io/streak-stats)
+
+
+---
+Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
