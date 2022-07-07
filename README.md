@@ -19,7 +19,7 @@
 
 - :woman_technologist: Student software engineer
 - Love 🤗cuteness, 😼cats and 🎶music
-- :rocket: My dreams to become a Full stack software engineer.
+- :rocket: My dream is to become a Full stack software engineer.
 - Love to read and write :book: :pencil:
 - :blush: Just recently started my own blog on  ![Hashnode](https://img.shields.io/badge/Hashnode-pink?style=for-the-badge&logo=hashnode&logoColor=white) where I document my journey and my side projects.
 - :nerd_face: Also, I am currently working on the #100DaysOfCode challenge on ![Twitter](https://img.shields.io/badge/Twitter-pink?style=for-the-badge&logo=twitter&logoColor=white)
