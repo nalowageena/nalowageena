@@ -15,7 +15,16 @@
   
 </div>
 
----
+<h1 align="center">About me</h1>
+
+- :woman_technologist: Student software engineer
+- Love 🤗cuteness, 😼cats and 🎶music
+- :rocket: My dreams to become a Full stack software engineer.
+- Love to read and write :book: :pencil:
+- :blush: Just recently started my own blog on  ![Hashnode](https://img.shields.io/badge/Hashnode-pink?style=for-the-badge&logo=hashnode&logoColor=white) where I document my journey and my side projects.
+- :nerd_face: Also, I am currently working on the #100DaysOfCode challenge on ![Twitter](https://img.shields.io/badge/Twitter-pink?style=for-the-badge&logo=twitter&logoColor=white)
+
+
 <h1 align="center">Languages</h1>
 <div align="center">
   <img src= "https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="50" height="50"/>&nbsp;
@@ -26,7 +35,6 @@
 
 </div>
 
----
 
 <h1 align="center">Statistics</h1>&nbsp;
 
@@ -35,25 +43,4 @@
 | :-: | :-: |
 
 
----
-Blog posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
-
-
-
-<!--
-**nalowageena/nalowageena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
