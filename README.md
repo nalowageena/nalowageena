@@ -25,7 +25,7 @@
 - :nerd_face: Currently working on the #100DaysOfCode challenge on ![Twitter](https://img.shields.io/badge/Twitter-pink?style=for-the-badge&logo=twitter&logoColor=white)
 
 
-<h1 align="center">Languages</h1>
+<h1 align="center">Languages and Tools</h1>
 <div align="center">
   <img src= "https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="50" height="50"/>&nbsp;
   <img src= "https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" width="50" height="50"/>&nbsp;
