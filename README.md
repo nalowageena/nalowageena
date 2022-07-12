@@ -9,10 +9,6 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   
-   <a href="https://littletechgiant.hashnode.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/Hashnode-blue?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode Badge"/>
-  </a>
-  
 </div>
 
 <h1 align="center">About me</h1>
@@ -45,6 +41,7 @@
 <h1 align="center">My Articles</h1>
 
 <!-- BLOG-POST-LIST:START -->
+Here are some of my blogs on ![Hashnode](https://img.shields.io/badge/Hashnode-pink?style=for-the-badge&logo=hashnode&logoColor=white) where I document my projects and journey.
 - [Build a cat gallery application - Part 2](https://littletechgiant.hashnode.dev/build-a-cat-gallery-application-part-2)
 - [Build a cat gallery web application - Part 1](https://littletechgiant.hashnode.dev/build-a-cat-gallery-web-application-part-1)
 <!-- BLOG-POST-LIST:END -->
