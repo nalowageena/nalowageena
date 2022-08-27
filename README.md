@@ -42,9 +42,9 @@
 <h1 align="center">My Articles</h1>
 
 <!-- BLOG-POST-LIST:START -->
+- [05 online resources for newbie web developers](https://littletechgiant.hashnode.dev/05-online-resources-for-newbie-web-developers)
 - [Developers are awesome!](https://littletechgiant.hashnode.dev/developers-are-awesome)
 - [Build a cat gallery application - Part 3](https://littletechgiant.hashnode.dev/build-a-cat-gallery-application-part-3)
 - [Build a cat gallery application - Part 2](https://littletechgiant.hashnode.dev/build-a-cat-gallery-application-part-2)
-- [Build a cat gallery web application - Part 1](https://littletechgiant.hashnode.dev/build-a-cat-gallery-web-application-part-1)
 <!-- BLOG-POST-LIST:END -->
 
