@@ -13,7 +13,7 @@
 
 <h1 align="center">About me</h1>
 
-- :woman_technologist: Student software engineer
+- :woman_technologist: Student computer engineer
 - Love 🤗cuteness, 😼cats and 🎶music
 - :rocket: My dream is to become a Full stack software engineer.
 - Love to read and write :book: :pencil:
